@@ -3659,7 +3659,7 @@ img.slider-thumbnail.left {
 }
 
 img.slider-thumbnail.center {
-    left: 200!important
+    left: 200px !important
 }
 
 h2.right.teaser-title {
